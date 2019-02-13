@@ -1,0 +1,7 @@
+C:\Users\nn\source\repos\Dungeon Crawler\Dungeon Crawler\obj\Debug\Dungeon Crawler.csprojAssemblyReference.cache
+C:\Users\nn\source\repos\Dungeon Crawler\Dungeon Crawler\obj\Debug\Dungeon Crawler.csproj.CoreCompileInputs.cache
+C:\Users\nn\source\repos\Dungeon Crawler\Dungeon Crawler\bin\Debug\Dungeon Crawler.exe.config
+C:\Users\nn\source\repos\Dungeon Crawler\Dungeon Crawler\bin\Debug\Dungeon Crawler.exe
+C:\Users\nn\source\repos\Dungeon Crawler\Dungeon Crawler\bin\Debug\Dungeon Crawler.pdb
+C:\Users\nn\source\repos\Dungeon Crawler\Dungeon Crawler\obj\Debug\Dungeon Crawler.exe
+C:\Users\nn\source\repos\Dungeon Crawler\Dungeon Crawler\obj\Debug\Dungeon Crawler.pdb
